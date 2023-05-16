@@ -1,0 +1,5 @@
+DB_HOST=172.31.16.1
+DB_PORT=5432
+DB_USER=postgres
+DB_PASSWORD=lala
+DB_NAME=laundry
