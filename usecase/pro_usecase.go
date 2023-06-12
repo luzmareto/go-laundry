@@ -1,8 +1,8 @@
 package usecase
 
 import (
-	"go-enigma-laundry/model"
-	"go-enigma-laundry/repository"
+	"go-laundry/model"
+	"go-laundry/repository"
 )
 
 type ProUsecase interface {

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-enigma-laundry/delivery"
+	"go-laundry/delivery"
 
 	_ "github.com/lib/pq"
 )

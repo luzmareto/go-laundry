@@ -3,7 +3,7 @@ package repository
 import (
 	"database/sql"
 	"fmt"
-	"go-enigma-laundry/model"
+	"go-laundry/model"
 	"log"
 
 	"github.com/google/uuid"
@@ -107,7 +107,7 @@ func (r *uomRepository) Delete(id string) error {
 }
 
 func NewUomRepository(db *sql.DB) UomRepository {
-	uomRepo := uomRepository {
+	uomRepo := uomRepository{
 		db,
 	}
 

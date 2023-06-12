@@ -3,8 +3,8 @@ package db
 import (
 	"database/sql"
 	"fmt"
-	"go-enigma-laundry/config"
-	"go-enigma-laundry/util"
+	"go-laundry/config"
+	"go-laundry/util"
 	"log"
 )
 

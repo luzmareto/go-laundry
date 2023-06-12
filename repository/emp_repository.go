@@ -3,7 +3,7 @@ package repository
 import (
 	"database/sql"
 	"fmt"
-	"go-enigma-laundry/model"
+	"go-laundry/model"
 	"log"
 
 	"github.com/google/uuid"
