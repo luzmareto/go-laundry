@@ -2,7 +2,7 @@ CARA MENJALANKAN PROGRAM GO LAUNDRY :
 1. Copy Paste file ddl yang ada di package db ke PGADMIN4 atau sejenisnya
 2. Seusaikan file .env dengan alamat loka teman teman
 3. Jika ada conflig pada source code, jalankan terminal dengan perintah : go mod tidy
-4. jika semua sudah aman. Maka Program sudah siap dipakai
+4. jika semua sudah aman. jalankan terminal dengan perintah go run main.go
 
 PILIHAN MENU MASTER DAN SUB MENU :
  1. MASTER MENU UOM. 
